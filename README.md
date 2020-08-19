@@ -1,0 +1,2 @@
+# refactoring
+A refactoring exercise
