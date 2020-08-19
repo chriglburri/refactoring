@@ -1,0 +1,25 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "a refactoring exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriglburri/refactoring.git"
+  },
+  "keywords": [
+    "exercise"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/chriglburri/refactoring/issues"
+  },
+  "homepage": "https://github.com/chriglburri/refactoring#readme",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
